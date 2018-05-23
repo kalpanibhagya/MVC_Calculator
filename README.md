@@ -1,0 +1,1 @@
+This calculator uses MVC design pattern and it is written in java.
